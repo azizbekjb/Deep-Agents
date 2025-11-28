@@ -5,8 +5,10 @@ Demak AI Agentlar haqida qiziqish bor.
 
 Ushbu repositoriy aynan AI agentlarning bir qismi bo'lgan **Deep Agent**lar haqida. 
 Langchain va uning ekotizmimlari asosida qurilgan:
-![LangChain](https://github.com/azizbekjb/Deep-Agents/blob/master/langchain.svg)
-
+<p align="center">
+  <img src="https://github.com/azizbekjb/Deep-Agents/blob/master/langchain.svg" 
+       alt="LangChain" width="80" height="80"/>
+</p>
 
 ### Deep Agent nima?
 ```
