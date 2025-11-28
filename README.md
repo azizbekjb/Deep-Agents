@@ -19,6 +19,7 @@ Agar siz **Deep Agent**larga qizisangiz ushbu repsitory orqali o'rganishni hozir
    - Python versiyasi >= 3.12
    - LLMlardan birini ishlatish uchun API kalik olishingiz kerak
    - Olgan API kalitni '.env' fayliga 'MODEL_NOMI_API_KEY=API_KALITINGIZ' ko'rinishda saqlang.
+   - Langchain ekotizimlari haqida ma'lumotga ega bo'lishingiz lozim.
   
 2. Repositoryni klonlang. Terminalda:
 ```
@@ -49,4 +50,5 @@ deactivate
 ```
 
 Endi ushbu bosqichlardan so'ng kodlarni islatib ulardan natijalarni olishingiz mumkin.
+Batafsil : [DeepAgents Docs](https://docs.langchain.com/oss/python/deepagents/overview)
 
