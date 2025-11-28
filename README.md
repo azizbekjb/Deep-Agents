@@ -10,7 +10,6 @@ Ushbu repositoriy aynan AI agentlarning bir qismi bo'lgan **Deep Agent**lar haqi
 *Deep Agent*(Chuqur Agent) - bu murakkab, ko'p bosqichli vazifalarni bajara oladigan AI Agentga aytiladi.
 ```
 
-
 Shaxsan o'zim AI Agentlar bilan ishlayotganim uchun **Deep Agent**larni o'rganishga qaror qilganman.
 Agar siz **Deep Agent**larga qizisangiz ushbu repsitory orqali o'rganishni hozir boshlang.
 
@@ -19,14 +18,14 @@ Agar siz **Deep Agent**larga qizisangiz ushbu repsitory orqali o'rganishni hozir
 1. Dastlab o'zingiz uchun muhitni sozlang
    - Python versiyasi >= 3.12
    - LLMlardan birini ishlatish uchun API kalik olishingiz kerak
-   - Olgan API kalitni '.env' fayligan 'MODEL_NOMI_API_KEY=API_KALITINGIZ' ko'rinishda saqlang.
+   - Olgan API kalitni '.env' fayliga 'MODEL_NOMI_API_KEY=API_KALITINGIZ' ko'rinishda saqlang.
   
-2. Repositoryni klonlang:
+2. Repositoryni klonlang. Terminalda:
 ```
 git clone https://github.com/azizbekjb/Deep-Agents.git
 ```
 
-3. Foydalanish uchun virtual muhit yarating va faollashtiring.
+3. Foydalanish uchun virtual muhit yarating va faollashtiring.Terminalda:
    - Yaratish:
       ```
       # Linux(Ubuntu)
@@ -37,12 +36,17 @@ git clone https://github.com/azizbekjb/Deep-Agents.git
      source venv/bin/activate
      ```
 
-4. Kerakli kutubxonlarni o'rnating
+4. Kerakli kutubxonlarni o'rnating. Terminalda:
 ```
 pip install -r requirements.txt
 ```
 
 5. Virtual muhit ni Jupyter notebook kerneli(yadrosi)ga o'tkazing.
+
+6. Ishlashni yakunlash uchun virtual muhitni faolsizlantiring. Terminalda:
+```
+deactivate
+```
 
 Endi ushbu bosqichlardan so'ng kodlarni islatib ulardan natijalarni olishingiz mumkin.
 
