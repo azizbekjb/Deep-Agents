@@ -3,7 +3,9 @@
 Sizni o'zimning ushbu repositoriyda ko'rganimdan xursandman.
 Demak AI Agentlar haqida qiziqish bor.
 
-Ushbu repositoriy aynan AI agentlarning bir qismi bo'lgan **Deep Agent**lar haqida.
+Ushbu repositoriy aynan AI agentlarning bir qismi bo'lgan **Deep Agent**lar haqida. 
+Langchain va uning ekotizmimlari asosida qurilgan:
+
 
 ### Deep Agent nima?
 ```
